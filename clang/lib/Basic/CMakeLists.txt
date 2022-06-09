@@ -80,6 +80,7 @@ add_clang_library(clangBasic
   Targets/Le64.cpp
   Targets/M68k.cpp
   Targets/MSP430.cpp
+  Targets/Sim.cpp
   Targets/Mips.cpp
   Targets/NVPTX.cpp
   Targets/OSTargets.cpp
